@@ -5,7 +5,7 @@ const cheerio = require('cheerio');
 const admin = require('firebase-admin');
 
 // Load your service account key
-let serviceAccount = require("./ggsipunotices-firebase-adminsdk-tevkc-0d3083f09f.json");
+let serviceAccount = require("./ggsipunotices-firebase-adminsdk-tevkc-3c5e76e34d.json");
 
 // Initialize Firebase
 admin.initializeApp({
